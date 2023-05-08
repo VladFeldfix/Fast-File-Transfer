@@ -1,4 +1,0 @@
-Database Manager - updates the excel file based on the information in the folder, generates tms files, and mpt files
-Chemicals Manager - helps with stock count
-TMS Manager - generates wo reports, open all labels for printing including dhr labels
-MPT Manager - generates log files and MPT settings
