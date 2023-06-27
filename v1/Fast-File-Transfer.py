@@ -8,7 +8,7 @@ class main:
         self.sc = SmartConsole("Fast File Transfer", "1.0")
         
         # set-up main memu
-        self.sc.main_menu["RUN"] = self.run
+        self.sc.add_main_menu_item("RUN", self.run)
 
         # get settings
         self.path_from = self.sc.get_setting("From")
