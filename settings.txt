@@ -1,2 +1,2 @@
-From > C:\Users\From folder
-To > C:\Users\To folder
+From > C:\Users\me\From folder
+To >C:\Users\me\To folder
