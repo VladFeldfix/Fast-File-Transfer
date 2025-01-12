@@ -1,2 +1,2 @@
-From > D:\Users\Vlad\Desktop\New folder
-To > D:\Users\Vlad\Documents\New folder
+From > D:\Vlad\TestReports
+To > Y:\Rafael\Cables\Cable Test\MPT LOT files and programs
