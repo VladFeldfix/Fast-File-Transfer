@@ -6,7 +6,7 @@ class main:
     # constructor
     def __init__(self):
         # load smart console
-        self.sc = SmartConsole("Fast File Transfer", "1.0")
+        self.sc = SmartConsole("Fast File Transfer", "1.1")
         
         # set-up main memu
         self.sc.add_main_menu_item("RUN", self.run)
